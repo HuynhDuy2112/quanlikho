@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Dell XPS 13",
+    "category": "Điện tử",
+    "quantity": 15,
+    "price": 25000000,
+    "description": "Laptop cao cấp cho doanh nhân",
+    "lastUpdated": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro",
+    "category": "Điện thoại",
+    "quantity": 8,
+    "price": 30000000,
+    "description": "Điện thoại thông minh cao cấp",
+    "lastUpdated": "2024-01-14T14:20:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Bàn làm việc gỗ",
+    "category": "Nội thất",
+    "quantity": 5,
+    "price": 2500000,
+    "description": "Bàn làm việc gỗ tự nhiên",
+    "lastUpdated": "2024-01-13T09:15:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Ghế văn phòng",
+    "category": "Nội thất",
+    "quantity": 12,
+    "price": 1500000,
+    "description": "Ghế văn phòng ergonomic",
+    "lastUpdated": "2024-01-12T16:45:00Z"
+  }
+]

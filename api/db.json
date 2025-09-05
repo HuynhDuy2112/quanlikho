@@ -1,0 +1,14 @@
+{
+  "inventory": [
+    {
+      "id": "c52f",
+      "name": "Bánh trung thu",
+      "category": "Thực phẩm",
+      "quantity": 24,
+      "price": 140000,
+      "description": "",
+      "lastUpdated": "2025-09-04T06:18:02.655Z",
+      "history": []
+    }
+  ]
+}

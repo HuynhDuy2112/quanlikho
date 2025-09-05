@@ -1,0 +1,34 @@
+{
+  "inventory": [
+    {
+      "id": "c52f",
+      "name": "Bánh trung thu",
+      "category": "Thực phẩm",
+      "quantity": 24,
+      "price": 140000,
+      "description": "Bánh trung thu truyền thống",
+      "lastUpdated": "2025-01-27T10:00:00.000Z",
+      "history": []
+    },
+    {
+      "id": "a1b2",
+      "name": "iPhone 15",
+      "category": "Điện thoại",
+      "quantity": 5,
+      "price": 25000000,
+      "description": "Điện thoại iPhone 15 Pro Max",
+      "lastUpdated": "2025-01-27T10:00:00.000Z",
+      "history": []
+    },
+    {
+      "id": "d3e4",
+      "name": "Laptop Dell",
+      "category": "Điện tử",
+      "quantity": 3,
+      "price": 15000000,
+      "description": "Laptop Dell Inspiron 15",
+      "lastUpdated": "2025-01-27T10:00:00.000Z",
+      "history": []
+    }
+  ]
+}
